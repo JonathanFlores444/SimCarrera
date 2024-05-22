@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JonathanFlores444/SimCarrera/issues"
   },
-  "homepage": "https://github.com/JonathanFlores444/SimCarrera#readme"
+  "homepage": "https://github.com/JonathanFlores444/SimCarrera#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
