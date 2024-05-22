@@ -1,0 +1,92 @@
+[
+  {
+    "hora": 1,
+    "progreso": [
+      {
+        "corredorId": 1,
+        "distanciaRecorrida": "6.50"
+      },
+      {
+        "corredorId": 2,
+        "distanciaRecorrida": "17.40"
+      },
+      {
+        "corredorId": 3,
+        "distanciaRecorrida": "5.63"
+      },
+      {
+        "corredorId": 4,
+        "distanciaRecorrida": "18.16"
+      },
+      {
+        "corredorId": 5,
+        "distanciaRecorrida": "19.11"
+      },
+      {
+        "corredorId": 6,
+        "distanciaRecorrida": "16.27"
+      },
+      {
+        "corredorId": 7,
+        "distanciaRecorrida": "7.66"
+      },
+      {
+        "corredorId": 8,
+        "distanciaRecorrida": "7.78"
+      },
+      {
+        "corredorId": 9,
+        "distanciaRecorrida": "15.27"
+      },
+      {
+        "corredorId": 10,
+        "distanciaRecorrida": "6.30"
+      }
+    ]
+  },
+  {
+    "hora": 2,
+    "progreso": [
+      {
+        "corredorId": 1,
+        "distanciaRecorrida": "13.00"
+      },
+      {
+        "corredorId": 2,
+        "distanciaRecorrida": "34.80"
+      },
+      {
+        "corredorId": 3,
+        "distanciaRecorrida": "11.26"
+      },
+      {
+        "corredorId": 4,
+        "distanciaRecorrida": "36.32"
+      },
+      {
+        "corredorId": 5,
+        "distanciaRecorrida": "38.22"
+      },
+      {
+        "corredorId": 6,
+        "distanciaRecorrida": "32.54"
+      },
+      {
+        "corredorId": 7,
+        "distanciaRecorrida": "15.32"
+      },
+      {
+        "corredorId": 8,
+        "distanciaRecorrida": "15.56"
+      },
+      {
+        "corredorId": 9,
+        "distanciaRecorrida": "30.54"
+      },
+      {
+        "corredorId": 10,
+        "distanciaRecorrida": "12.60"
+      }
+    ]
+  }
+]
